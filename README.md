@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed — Front-End Web Developer
 
-<!--
-**fazalsphere/fazalsphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building sleek, modern, and responsive websites for startups and professionals. I use cutting-edge tools and clean code to deliver websites that perform and impress.
 
-Here are some ideas to get you started:
+- 🔥 2+ years building beautiful web experiences
+- ✨ Passionate about design-to-code workflows
+- 🚀 Focused on performance, accessibility, and responsiveness
+- 🎯 Currently building a portfolio of powerful landing pages and business websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- HTML, CSS, JavaScript
+- Responsive Design & UI/UX Best Practices
+- Git, GitHub, Deployment (Vercel, Netlify)
+- Figma (design handoff)
+
+## 🧩 Projects
+
+| Project | Description | Stack | Demo |
+|--------|-------------|-------|------|
+| **secure-horizon-web** | Insurance company website | HTML/CSS/JS | (http://192.168.100.179:8080/)(#) |
+
+
+---
+
+Let’s connect & build something amazing!
