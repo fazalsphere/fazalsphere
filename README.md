@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed — Front-End Web Developer
+# 👋 Hi, I'm Fazal — Front-End Web Developer
 
 I specialize in building sleek, modern, and responsive websites for startups and professionals. I use cutting-edge tools and clean code to deliver websites that perform and impress.
 
