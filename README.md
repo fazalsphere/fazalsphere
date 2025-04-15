@@ -17,7 +17,7 @@ I specialize in building sleek, modern, and responsive websites for startups and
 
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
-| **secure-horizon-web** | Insurance company website | HTML/CSS/JS | http://192.168.100.179:8080/ |
+| **secure-horizon-web** | Insurance company website | HTML/CSS/JS/React/Tailwind CSS | http://192.168.100.179:8080/ |
 
 
 ---
