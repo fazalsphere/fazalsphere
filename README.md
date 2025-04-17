@@ -2,7 +2,7 @@
 
 I specialize in building sleek, modern, and responsive websites for startups and professionals. I use cutting-edge tools and clean code to deliver websites that perform and impress.
 
-- 🔥 2+ years building beautiful web experiences
+- 🔥 1+ years building beautiful web experiences
 - ✨ Passionate about design-to-code workflows
 - 🚀 Focused on performance, accessibility, and responsiveness
 - 🎯 Currently building a portfolio of powerful landing pages and business websites
