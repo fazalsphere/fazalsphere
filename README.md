@@ -17,7 +17,9 @@ I specialize in building sleek, modern, and responsive websites for startups and
 
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
-| **secure-horizon-web** | Insurance company website | HTML/CSS/JS/React/Tailwind CSS | pending...|
+| **Secure-Horizon** | Insurance company website | HTML/CSS/JS/React/Tailwind CSS | pending...|
+| **Deal-Fox** | Deal & Bidding Platform | HTML/CSS/JS/ | pending...|
+
 
 
 ---
