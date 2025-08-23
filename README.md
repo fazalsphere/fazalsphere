@@ -1,27 +1,16 @@
-# 👋 Hi, I'm Fazal — Front-End Web Developer
+# Hi, there 👋
 
-I specialize in building sleek, modern, and responsive websites for startups and professionals. I use cutting-edge tools and clean code to deliver websites that perform and impress.
+I’m Fazal, a front-end developer based in Pakistan.
 
-- 🔥 1+ year building beautiful web experiences
-- ✨ Passionate about design-to-code workflows
-- 🚀 Focused on performance, accessibility, and responsiveness
-- 🎯 Currently building a portfolio of powerful landing pages and business websites
+From landing pages to full front-end systems, I enjoy transforming design concepts into polished, production-ready websites.  
 
-## 🧰 Tech Stack
-- HTML, CSS, JavaScript
-- Responsive Design & UI/UX Best Practices
-- Git, GitHub, Deployment (Vercel, Netlify)
-- Figma (design handoff)
+Outside of code, you’ll often find me exploring the latest technology, hitting the gym, driving the cars, or diving into tech content. I also enjoy sharing ideas and connecting with people who are building the future.  
 
-## 🧩 Projects
+**Fun Facts:**
 
-| Project | Description | Stack | Demo |
-|--------|-------------|-------|------|
-| **Secure-Horizon** | Insurance company website | HTML/CSS/JS/React/Tailwind CSS | pending...|
-| **Deal-Fox** | Deal & Bidding Platform | HTML/CSS/JS/ | pending...|
+• I don’t like coffee, but I can code for hours with pure motivation
 
+• I’m obsessed with perfecting pixel-to-code precision
 
+• I dream of building a tech empire like Amazon or Microsoft one day!
 
----
-
-Let’s connect & build something amazing!
