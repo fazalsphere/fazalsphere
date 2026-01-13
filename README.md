@@ -1,16 +1,8 @@
 # Hi, there 👋
 
-I’m Fazal, a front-end developer based in Pakistan.
+I'm a Front-End Developer focused on building clean, responsive, and accessible user interfaces.
 
-From landing pages to full front-end systems, I enjoy transforming design concepts into polished, production-ready websites.  
+Experienced in converting Figma designs into production-ready HTML, CSS, Tailwind CSS, and JavaScript for real client projects and CMS handoffs.
 
-Outside of code, you’ll often find me exploring the latest technology, hitting the gym, driving the cars, or diving into tech content. I also enjoy sharing ideas and connecting with people who are building the future.  
-
-**Fun Facts:**
-
-• I don’t like coffee, but I can code for hours with pure motivation
-
-• I’m obsessed with perfecting pixel-to-code precision
-
-• I dream of building a tech empire like Amazon or Microsoft one day!
+Currently building and refining UI-focused projects (dashboards, landing pages, auth flows) while expanding React skills.
 
